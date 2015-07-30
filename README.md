@@ -1,7 +1,4 @@
----
-languages: javascript
-tags: functions, numbers
----
+
 
 # Teenager
 
